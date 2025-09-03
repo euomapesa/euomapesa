@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Emmanuel  
 
-<!--
-**euomapesa/euomapesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **Finance & Data Enthusiast** with a passion for building tools that bring numbers to life.  
+📊 Skilled in **Excel Automation & SQL for Data Analysis** — turning raw data into actionable insights.  
+🚀 Currently learning **GitHub** to share projects and collaborate more effectively.  
+💡 Focused on **investment modeling, portfolio dashboards, and process automation**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech & Tools  
+- **Excel / VBA** – automation, dashboards, financial models  
+- **SQL** – querying, cleaning, and analyzing data  
+- **GitHub** – version control & project collaboration (learning)  
+
+---
