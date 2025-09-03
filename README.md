@@ -28,8 +28,8 @@
 ---
 
 ## 🤝 Let’s Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- 📧 Email: *your.email@example.com*  
+- 💼 [LinkedIn][(https://www.linkedin.com/in/your-link/)](https://www.linkedin.com/in/emaps/)  
+- 📧 Email: *euomapesa@gmail.com*  
 
 ---
 
